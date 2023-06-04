@@ -13,3 +13,8 @@ Lets Travel SwiftUI List series second demo app using data model
 
 https://github.com/Curious1Dev/2LetsTravel_List_DataModel
 
+<h3> 3. Lets Travel SwiftUI List with Detail View </h3>
+
+Lets Travel SwiftUI List series third demo app with City Detail View
+
+https://github.com/Curious1Dev/3LetsTravel_List_DetailView
