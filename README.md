@@ -18,3 +18,9 @@ https://github.com/Curious1Dev/2LetsTravel_List_DataModel
 Lets Travel SwiftUI List series third demo app with City Detail View
 
 https://github.com/Curious1Dev/3LetsTravel_List_DetailView
+
+<h3> 4. Let's Travel SwiftUI List with functionality to add a new item in the list </h3>
+
+Let's Travel SwiftUI List series forth demo app with functionality to add a city
+
+https://github.com/Curious1Dev/4LetsTravel_List_AddCity
