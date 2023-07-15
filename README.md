@@ -35,3 +35,6 @@ https://github.com/Curious1Dev/5LetsTravel_List_DeleteCity
 
 https://github.com/Curious1Dev/6LetsTravel_List_CityArray
 
+<h3> 7. Let's Travel SwiftUI List series seventh demo app with functionality to move a city row in list </h3>
+
+https://github.com/Curious1Dev/7LetsTravel_List_MoveCityRow
