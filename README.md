@@ -31,4 +31,7 @@ Let's Travel SwiftUI List series fifth demo app with functionality to delete a r
 
 https://github.com/Curious1Dev/5LetsTravel_List_DeleteCity
 
+<h3> Let's Travel SwiftUI List series sixth demo app using city array </h3>
+
+https://github.com/Curious1Dev/6LetsTravel_List_CityArray
 
