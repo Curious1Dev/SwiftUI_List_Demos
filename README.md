@@ -39,6 +39,6 @@ https://github.com/Curious1Dev/6LetsTravel_List_CityArray
 
 https://github.com/Curious1Dev/7LetsTravel_List_MoveCityRow
 
-<h3> 8. Let's Travel SwiftUI List series sixth demo app using city array another way</h3>
+<h3> 8. Let's Travel SwiftUI List series eighth demo app using city array another way</h3>
 
 https://github.com/Curious1Dev/8LetsTravel_CityArray
